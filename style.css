@@ -1,1 +1,35 @@
+@font-face {
+    font-family: 'AirStripFour'; /*a name to be used later*/
+    src: url('airstrip.ttf'); /*URL to font*/
+}
+
+.bts-orange-bg {
+    background-color: #ff420f;
+    color: #fff;
+}
+
+.ASF {
+    font-family: 'AirStripFour';
+}
+
+.top-left-one {
+  position: absolute;
+  top: 100px;
+  left: 150px;
+  font-family: 'AirStripFour';
+  color:  white;
+}
+
+.top-left-text-one{
+  position: absolute;
+  top: 170px;
+  left: 30px;
+  font-family: 'AirStripFour';
+  color:  white;
+}
+
+#large-font{
+	font-size: xxx-large;
+}
+
 
