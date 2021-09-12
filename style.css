@@ -36,4 +36,83 @@ body{
 	background-color: #ff420f;
 }
 
+.centered{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'AirStripFour';
+    color:  white;
+}
+
+.centered-two{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'AirStripFour';
+    color:  white;
+} 
+
+#twoBusOne{
+    position:  absolute;
+    top: 665px;
+    left: 460px;
+    font-family: 'AirStripFour';
+    color:  white;
+}
+
+#twoBusTwo{
+    position:  absolute;
+    top: 680px;
+    left: 790px;
+    font-family: 'AirStripFour';
+    color:  white;
+} 
+
+#twoBusThree{
+    position:  absolute;
+    top: 740px;
+    left: 450px;
+    font-family: 'AirStripFour';
+    color:  white;
+} 
+
+#redRocksTwo{
+    position:  absolute;
+    top: 600px;
+    left: 1300px;
+    font-family: 'AirStripFour';
+    color:  #ff420f;
+} 
+
+#txtThreeOne{
+    position:  absolute;
+    top: 450px;
+    left: 35%;
+    font-family: 'AirStripFour';
+    color:  #ff420f;
+    font-size: small;
+}
+#txtThreeTwo{
+    position:  absolute;
+    top: 500px;
+    left: 33%;
+    font-family: 'AirStripFour';
+    color:  #ff420f;
+    font-size: small;
+}
+
+#txtThreeThree{
+    position:  absolute;
+    top: 530px;
+    left: 47%;
+    font-family: 'AirStripFour';
+    color:  #ff420f;
+    font-size: Large;
+}
+.normalWhite{
+    color: white;
+    font-size: medium;
+}
 
