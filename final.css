@@ -1,1 +1,46 @@
+@font-face {
+    font-family: 'AirStripFour'; /*a name to be used later*/
+    src: url('airstrip.ttf'); /*URL to font*/
+}
+
+#aboutSection{
+	background: #ff420f;
+	height: 100%;
+}
+
+.html, body {
+   height:100%;
+}
+
+div{
+	height: 100vh;
+}
+
+#gradLeft {
+  	background-image: linear-gradient(to right, #ff420f , #163f3c);
+}
+#gradRight{
+  	background-image: linear-gradient(to right,#163f3c, #071515);
+}
+
+#navBar{
+	background: #ff420f;
+	background-image: linear-gradient(to right, #ff420f ,#163f3c, #071515);
+}
+
+#navOne{
+	color: black;
+}
+
+#navTwo{
+	color: black;
+}
+
+#navThree{
+	color: black;
+}
+
+#navspace{
+	opacity: 0;
+}
 
