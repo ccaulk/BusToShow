@@ -17,7 +17,9 @@ div{
 }
 
 #gradLeft {
-  	background-image: linear-gradient(to right, #ff420f , #163f3c);
+  	background-image: linear-gradient(to right, #ff420f 67%, #163f3c);
+  	font-family: 'AirStripFour';
+  	color: white;
 }
 #gradRight{
   	background-image: linear-gradient(to right,#163f3c, #071515);
@@ -25,22 +27,57 @@ div{
 
 #navBar{
 	background: #ff420f;
-	background-image: linear-gradient(to right, #ff420f ,#163f3c, #071515);
+	background-image: linear-gradient(to right, #ff420f 44.6%,#163f3c, #071515);
+	border:2px solid white;
 }
 
 #navOne{
 	color: black;
+	font-family: 'AirStripFour';
 }
 
 #navTwo{
 	color: black;
+	font-family: 'AirStripFour';
 }
 
 #navThree{
 	color: black;
+	font-family: 'AirStripFour';
 }
 
 #navspace{
 	opacity: 0;
 }
 
+#redRocks{
+	margin-top: 540px;
+}
+
+#buses{
+	width: 25%;
+	height: 15%;
+}
+
+#ship1{
+	width: 30%;
+	height: 15%;
+}
+
+#ship2{
+	width: 30%;
+	height: 15%;
+}
+
+#about{
+	font-family: 'AirStripFour';
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+#question{
+	font-family: 'AirStripFour';
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
